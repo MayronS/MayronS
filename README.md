@@ -1,16 +1,17 @@
-## Hi there 👋
+### Olá, Eu sou Mayron👋
 
-<!--
-**MayronS/MayronS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="justify">Sou um estudando de Sistemas da Informação e programo com foco em Back-end</p>
+<p align="justify"> 
+ Deem uma olhada nos repositórios que tenho no momento. Atualmente estou desenvolvendo alguns projetos e em breve estarão disponiveis!
+<p align="justify">Obrigado pela visita! volte sempre :)</p>
 
-Here are some ideas to get you started:
+<h3>Tech Stack</h3>
+<p align=center>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,javascript,py,cs,react,html,tailwind,git,docker,aws" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>Rede social/h3>
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00BFFF&color:FFF)](https://www.linkedin.com/in/mayronsv/)
