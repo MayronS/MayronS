@@ -2,7 +2,7 @@
 
 <p align="justify">Sou um estudante de Sistemas da Informação e programo com foco em Back-end.</p>
 <p align="justify"> 
- Dêem uma olhada nos repositórios que produzi. Atualmente estou desenvolvendo alguns projetos e em breve eles também estarão disponiveis!
+ Deem uma olhada nos repositórios que produzi. Atualmente estou desenvolvendo alguns projetos e em breve eles também estarão disponiveis!
 <p align="justify">Obrigado pela visita! Volte sempre :)</p>
 
 <h3>Tech Stack</h3>
