@@ -1,6 +1,6 @@
 ### Olá, Eu sou Mayron👋
 
-<p align="justify">Sou um estudando de Sistemas da Informação e programo com foco em Back-end</p>
+<p align="justify">Sou um estudante de Sistemas da Informação e programo com foco em Back-end</p>
 <p align="justify"> 
  Deem uma olhada nos repositórios que tenho no momento. Atualmente estou desenvolvendo alguns projetos e em breve estarão disponiveis!
 <p align="justify">Obrigado pela visita! volte sempre :)</p>
